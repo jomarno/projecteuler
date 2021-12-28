@@ -1,0 +1,2 @@
+A = Table[Catch[n=0; While[PrimeQ[n^2 + a*n + b], n++]; Throw[{n,a b}]], {a,-1000,1000}, {b,-1000,1000}];
+A[[Position[A[[;;,;;,1]],Max[A[[;;,;;,1]]]][[1,1]],Position[A[[;;,;;,1]],Max[A[[;;,;;,1]]]][[1,2]],2]]

@@ -1,0 +1,1 @@
+Apply[Times,Flatten[Table[IntegerDigits[i],{i,200000}]][[Table[10^j,{j,0,6}]]]]

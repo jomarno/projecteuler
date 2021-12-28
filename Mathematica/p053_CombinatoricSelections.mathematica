@@ -1,0 +1,1 @@
+Length[Select[Flatten[Table[Table[Binomial[n,r],{r,n}],{n,100}]],#>1000000&]]

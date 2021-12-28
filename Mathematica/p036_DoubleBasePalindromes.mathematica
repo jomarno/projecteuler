@@ -1,0 +1,1 @@
+Total[Select[Table[n,{n,1,999999,2}],And[PalindromeQ[#],PalindromeQ[IntegerString[#,2]]]&]]

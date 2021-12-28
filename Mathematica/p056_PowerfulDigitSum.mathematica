@@ -1,0 +1,1 @@
+Max[Table[Total[IntegerDigits[a^b]],{a,1,100},{b,1,100}]]

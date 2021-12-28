@@ -1,0 +1,68 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1850,         60]
+NotebookOptionsPosition[      1431,         44]
+NotebookOutlinePosition[      1773,         59]
+CellTagsIndexPosition[      1730,         56]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Max", "[", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Total", "[", 
+     RowBox[{"IntegerDigits", "[", 
+      SuperscriptBox["a", "b"], "]"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"a", ",", "1", ",", "100"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"b", ",", "1", ",", "100"}], "}"}]}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.8004774023527174`*^9, 3.800477538173834*^9}, {
+  3.8004777297409897`*^9, 3.800477739582346*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"fad94136-c4f1-46b6-9fa4-00a65ad6088a"],
+
+Cell[BoxData["972"], "Output",
+ CellChangeTimes->{{3.800477462371303*^9, 3.8004774995449867`*^9}, 
+   3.8004775407723436`*^9, {3.8004777332469788`*^9, 3.8004777406387386`*^9}, 
+   3.8006566494436245`*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"9aa8648c-2363-4503-aec2-cfdb646506fc"]
+}, Open  ]]
+},
+WindowSize->{683, 685},
+WindowMargins->{{Automatic, -8}, {Automatic, -8}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 550, 13, 34, "Input",ExpressionUUID->"fad94136-c4f1-46b6-9fa4-00a65ad6088a"],
+Cell[1133, 37, 282, 4, 32, "Output",ExpressionUUID->"9aa8648c-2363-4503-aec2-cfdb646506fc"]
+}, Open  ]]
+}
+]
+*)
+

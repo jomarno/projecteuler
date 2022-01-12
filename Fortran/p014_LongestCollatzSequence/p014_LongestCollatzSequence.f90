@@ -1,6 +1,9 @@
 ! PROJECT EULER - PROBLEM 14
 ! LONGEST COLLATZ SEQUENCE
 
+! https://projecteuler.net/problem=14
+
+
 ! The following iterative sequence is defined for the set of positive integers:
 
 !       n -> n/2 (n is even)
@@ -15,7 +18,7 @@
 
 ! Which starting number, under one million, produces the longest chain?
 
-! NOTE: Once the chain starts the terms are allowed to go over one million
+! NOTE: Once the chain starts the terms are allowed to go over one million.
 
 
 ! This program calculates the Collatz sequence for all starting numbers from 2 to MAXSTART.

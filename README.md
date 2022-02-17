@@ -25,9 +25,9 @@
 |  25   | [1000-digit Fibonacci number        ](https://projecteuler.net/problem=25)    |           |           |           |&#10004;      |           |
 |  27   | [Quadratic primes                   ](https://projecteuler.net/problem=27)    |           |           |           |&#10004;      |           |
 |  29   | [Distinct powers                    ](https://projecteuler.net/problem=29)    |           |           |           |&#10004;      |           |
-|  30   | [Digit fifth powers                 ](https://projecteuler.net/problem=30)    |           |           |           |&#10004;      |           |
+|  30   | [Digit fifth powers                 ](https://projecteuler.net/problem=30)    |           |           | &#10004;  |&#10004;      |           |
 |  31   | [Coin sums                          ](https://projecteuler.net/problem=31)    |           |           |           |&#10004;      |           |
-|  34   | [Digit factorials                   ](https://projecteuler.net/problem=34)    |           |           |           |&#10004;      |           |
+|  34   | [Digit factorials                   ](https://projecteuler.net/problem=34)    |           |           | &#10004;  |&#10004;      |           |
 |  36   | [Double-base palindromes            ](https://projecteuler.net/problem=36)    |           |           |           |&#10004;      |           |
 |  39   | [Integer right triangles            ](https://projecteuler.net/problem=39)    |           |           |           |&#10004;      |           |
 |  40   | [Champernowne's constant            ](https://projecteuler.net/problem=40)    |           |           |           |&#10004;      |           |

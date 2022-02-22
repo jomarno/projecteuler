@@ -14,7 +14,7 @@
 |  10   | [Summation of primes                ](https://projecteuler.net/problem=10)    |           |           |           |              | &#10004;  |
 |  11   | [Largest product in a grid          ](https://projecteuler.net/problem=11)    |           |           |           |              | &#10004;  |
 |  12   | [Highly divisible triangular number ](https://projecteuler.net/problem=12)    | &#10004;  | &#10004;  |           |              |           |
-|  13   | [Large sum                          ](https://projecteuler.net/problem=13)    |           |           |           |&#10004;      |           |
+|  13   | [Large sum                          ](https://projecteuler.net/problem=13)    |           |           |           |&#10004;      | &#10004;  |
 |  14   | [Longest Collatz sequence           ](https://projecteuler.net/problem=14)    | &#10004;  | &#10004;  |           |              | &#10004;  |
 |  15   | [Lattice paths                      ](https://projecteuler.net/problem=15)    |           |           | &#10004;  |&#10004;      | &#10004;  |
 |  16   | [Power digit sum                    ](https://projecteuler.net/problem=16)    |           |           | &#10004;  |&#10004;      |           |

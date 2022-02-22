@@ -22,7 +22,7 @@
 |  18   | [Maximum path sum I                 ](https://projecteuler.net/problem=18)    |           |           |           |              | &#10004;  |
 |  20   | [Factorial digit sum                ](https://projecteuler.net/problem=20)    |           |           | &#10004;  |&#10004;      |           |
 |  21   | [Amicable numbers                   ](https://projecteuler.net/problem=21)    | &#10004;  | &#10004;  |           |              |           |
-|  25   | [1000-digit Fibonacci number        ](https://projecteuler.net/problem=25)    |           |           |           |&#10004;      |           |
+|  25   | [1000-digit Fibonacci number        ](https://projecteuler.net/problem=25)    |           |           |           |&#10004;      | &#10004;  |
 |  27   | [Quadratic primes                   ](https://projecteuler.net/problem=27)    |           |           |           |&#10004;      |           |
 |  29   | [Distinct powers                    ](https://projecteuler.net/problem=29)    |           |           |           |&#10004;      |           |
 |  30   | [Digit fifth powers                 ](https://projecteuler.net/problem=30)    |           |           | &#10004;  |&#10004;      |           |

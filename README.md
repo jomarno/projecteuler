@@ -16,7 +16,7 @@
 |  12   | [Highly divisible triangular number ](https://projecteuler.net/problem=12)    | &#10004;  | &#10004;  |           |              |           |
 |  13   | [Large sum                          ](https://projecteuler.net/problem=13)    |           |           |           |&#10004;      |           |
 |  14   | [Longest Collatz sequence           ](https://projecteuler.net/problem=14)    | &#10004;  | &#10004;  |           |              | &#10004;  |
-|  15   | [Lattice paths                      ](https://projecteuler.net/problem=15)    |           |           | &#10004;  |&#10004;      |           |
+|  15   | [Lattice paths                      ](https://projecteuler.net/problem=15)    |           |           | &#10004;  |&#10004;      | &#10004;  |
 |  16   | [Power digit sum                    ](https://projecteuler.net/problem=16)    |           |           | &#10004;  |&#10004;      |           |
 |  17   | [Number letter counts               ](https://projecteuler.net/problem=17)    |           |           |           |              | &#10004;  |
 |  18   | [Maximum path sum I                 ](https://projecteuler.net/problem=18)    |           |           |           |              | &#10004;  |

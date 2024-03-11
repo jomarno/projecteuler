@@ -37,5 +37,6 @@
 |  67   | [Maximum path sum II                ](https://projecteuler.net/problem=67)    |           |           |           |           | &#10004;  |
 |  69   | [Totient maximum                    ](https://projecteuler.net/problem=69)    |           |           |           |           | &#10004;  |
 |  71   | [Ordered fractions                  ](https://projecteuler.net/problem=71)    |           |           |           |           | &#10004;  |
+|  72   | [Counting fractions                 ](https://projecteuler.net/problem=72)    |           |           |           |           | &#10004;  |
 |  97   | [Large non-Mersenne prime           ](https://projecteuler.net/problem=97)    |           |           | &#10004;  | &#10004;  | &#10004;  |
 | 317   | [Firecracker                        ](https://projecteuler.net/problem=317)   |           |           |           | &#10004;  |           | 
